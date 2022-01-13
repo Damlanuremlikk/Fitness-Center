@@ -1,0 +1,4 @@
+21000001   123qweqwe   Hulusi   Yılmaz   11,11,9995   12,12,20   Gold   12   168.8   68.8   
+21000002   123qweqwe   Sevda   Deniz   11,11,1984   12,12,2020   Gold   12   162.2   55.5   
+22000002   123qweqwe   Nuti   Onbaşı   15,12,1966   11,11,1989   standart   9   179.2   74.4   
+22000001   123qweqwe   damla   emlik   06,01,2000   11,11,2020   standart   6   175.0   62.0

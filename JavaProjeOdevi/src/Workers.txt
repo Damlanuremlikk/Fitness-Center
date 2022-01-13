@@ -1,0 +1,4 @@
+11000001   123qweqwe   Sinan   TOKLU   15.11.1979   20.20.2020   monday,sunday,tuesday,wednesday,friday,thursday,saturday   9999999999.0   0
+13000002   123qweqwe   Selma    yilmaz   22.12.1995   12.12.2020   monday   5555.0   5555
+13000001   123qweqwe   Selvi   Gumus   11,11,1991   20.20.2020   monday,sunday   5555.0   334
+12000001   123qweqwe   Gökhan   Güneşoğlu   15,11,1990   20.20.2020   monday,sunday   111111.0   123
