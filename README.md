@@ -45,7 +45,7 @@ int userID;
                 line=reader.nextLine();
                 linesp=line.split("   ");
                 if(Integer.parseInt(linesp[0])<(userID+999998)){
-                    if(id<=Integer.parseInt(linesp[0])){                //buraya kucuktur yazmadığım için biraz sıkıntı olmuştu
+                    if(id<=Integer.parseInt(linesp[0])){          
                         id=(Integer.parseInt(linesp[0])+1);
                     }
                 }
